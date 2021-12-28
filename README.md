@@ -1,5 +1,5 @@
 # Course List
-<a href="https://courselist-template.netlify.app/">Link do projeto</a>
+<a href="https://courselist-template.netlify.app/" target="_blank">Link do projeto</a>
 
 ## Descrição do projeto
 <p>A ideia deste projeto foi criar um protótipo de template simples, de fácil manutenção e estilização, para listar cursos ofertados por diversas unidades de uma rede de ensino, utilizando apenas HTML, CSS e JavaScript</p>
