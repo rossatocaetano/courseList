@@ -178,14 +178,18 @@ footer a{
         height: 4em;        
     }
 }
+
+
 /*
+---PROJECT PALETTE---
+--rgba--:
 $prussian-blue: rgba(13, 41, 60, 1);
 $davys-grey: rgba(80, 90, 91, 1);
 $cedar-chest: rgba(213, 87, 59, 1);
 $eton-blue: rgba(148, 201, 169, 1);
 $tea-green: rgba(198, 236, 174, 1);
 
-
+--hex--:
 --prussian-blue: #0d293cff;
 --davys-grey: #505a5bff;
 --cedar-chest: #d5573bff;
